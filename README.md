@@ -1,5 +1,5 @@
 # -Cadenas-Arreglos-y-Registros
-Mini Proyecto de universidad para la materia estructura y representación de datos
+Mini Proyecto escrito en C de universidad para la materia estructura y representación de datos
 
 El programa cuenta con 4 opciones:  
 
